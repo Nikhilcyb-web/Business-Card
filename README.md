@@ -60,7 +60,7 @@ git clone https://github.com/Nikhilcyb-web/Business-Card.git
 
 ## 📸 Screenshot
 
-[Business Card Screenshot](web.png)
+![Business Card](web.png)
 
 
 
