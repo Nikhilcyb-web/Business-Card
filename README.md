@@ -35,7 +35,7 @@ Business-Card/
 │
 ├── business.html
 ├── business.css
-├── useimage/
+├── businesscard_files/
 │   ├── github-logo.webp
 │   ├── instagram-logo.webp
 │   └── ...
@@ -58,9 +58,11 @@ git clone https://github.com/Nikhilcyb-web/Business-Card.git
 
 ---
 
+
+
 ## 📸 Screenshot
 
-![Business Card](businessCard_files/Web.png)
+![Business Card](Web.png)
 
 
 
